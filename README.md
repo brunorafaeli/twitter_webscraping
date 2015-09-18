@@ -4,4 +4,4 @@ Código para realizar webscraping no Twitter
 <h3> Pré Requisitos </h3>
 
 <ol> 
-  <li> RSlenium ( devtools::install_github("ropensci/RSelenium") )
+  <li> <b> RSlenium </b>( devtools::install_github("ropensci/RSelenium") )
