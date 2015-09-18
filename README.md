@@ -6,4 +6,7 @@ Código para realizar webscraping no Twitter
 <ol> 
   <li> <b> RSlenium </b>( devtools::install_github("ropensci/RSelenium") )
 
+</ol>
 <hr>
+
+<h3> Como usar </h3>
