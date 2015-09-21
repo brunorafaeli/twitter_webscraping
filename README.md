@@ -1,7 +1,7 @@
-<h2> Twitter_Webscraping </h2>
+<h3> Twitter_Webscraping </h3>
 Código para realizar webscraping no Twitter
 
-<h3>Pré Requisitos : </h3>
+<h4>Pré Requisitos : </h4>
 
 <ul> 
   <li> <b> RSlenium - </b>( devtools::install_github("ropensci/RSelenium") ) </li>
@@ -18,7 +18,7 @@ Código para realizar webscraping no Twitter
 
 <hr>
 
-<h3> Como usar : </h3>
+<h4> Como usar : </h4>
 
 ```R
 #Escolher um nome para a pesquisa 
@@ -35,7 +35,9 @@ data_fim = as.Date("2015-09-15",format = "%Y-%m-%d") #(linha 29)
 #Salva o dataframe em um arquivo csv com o nome escolhido
 write.csv(resultado_final, file=titulo, row.names=FALSE) #(linha 84)
 ```
-<h3>Arquivo .CSV gerado</h3>
+<hr>
+
+<h4>Arquivo .CSV gerado</h4> :
 
 number_of_tweets  | date
 ------------- | -------------
