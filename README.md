@@ -37,7 +37,7 @@ write.csv(resultado_final, file=titulo, row.names=FALSE) #(linha 84)
 ```
 <hr>
 
-<h4>Arquivo .CSV gerado</h4> :
+<h4>Arquivo .CSV gerado : </h4> 
 
 number_of_tweets  | date
 ------------- | -------------
