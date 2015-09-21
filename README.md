@@ -3,10 +3,19 @@ Código para realizar webscraping no Twitter
 
 <h3>Pré Requisitos : </h3>
 
-<ol> 
-  <li> <b> RSlenium </b>( devtools::install_github("ropensci/RSelenium") )
+<ul> 
+  <li> <b> RSlenium - </b>( devtools::install_github("ropensci/RSelenium") ) </li>
+  
+  <li> <b> Selenium-server-standalone.jar : </b> 
+      <ul> 
+        <li> Após instalar a biblioteca, o módulo Selenium-server-standalone.jar deve ser carregado. 
+          <ul>
+          <li> <b>No Windows :</b> Iniciar ---> Pesquisar programas e arquivos ---> Digitar : Selenium-server-standalone.jar ---> Clicar no arquivo encontrado.</li>
+          </ul>
+        </li>
+      </ul>
+</ul> 
 
-</ol>
 <hr>
 
 <h3> Como usar : </h3>
